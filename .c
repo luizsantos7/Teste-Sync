@@ -8,6 +8,7 @@ int main()
   int cfinal, bfinal, sfinal;
   float total;
   char nome[40];
+  int luiz;
 
 printf("Digite seu nome:");
 scanf("%s", nome);
